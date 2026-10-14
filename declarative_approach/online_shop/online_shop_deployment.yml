@@ -8,7 +8,7 @@ spec:
     matchLabels:
       app: online-shop
   template:
-    metadata:
+    metadata: 
       labels:
         app: online-shop
     spec:
